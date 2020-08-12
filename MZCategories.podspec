@@ -21,14 +21,14 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/1242848941@qq.com/MZCategories'
+  s.homepage         = 'https://github.com/mzPods/MZCategories'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '1242848941@qq.com' => '1242848941@qq.com' }
-  s.source           = { :git => 'https://github.com/1242848941@qq.com/MZCategories.git', :tag => s.version.to_s }
+  s.author           = { 'liminzhou' => '1242848941@qq.com' }
+  s.source           = { :git => 'git@github.com:mzPods/MZCategories.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
 
   s.source_files = 'MZCategories/Classes/**/*'
   
