@@ -1,0 +1,16 @@
+PODS:
+  - MZCategories (0.1.0)
+
+DEPENDENCIES:
+  - MZCategories (from `../`)
+
+EXTERNAL SOURCES:
+  MZCategories:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MZCategories: 73c3848be42c362fd7e5710527f386fea5ccc0cd
+
+PODFILE CHECKSUM: 3c543f740cafeea2bab07063c4d5a2c825b39d6e
+
+COCOAPODS: 1.7.5
